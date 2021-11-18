@@ -1,0 +1,16 @@
+p{
+	background-color: rgb(255,160,210);
+	font-family: 'Verdana', sans-serif;
+}
+#sec{
+	color: rgb(0,180,255);
+	font-size: 36px;
+}
+
+.fs{
+	font-size: 24px;
+}
+#four{
+	background-color: rgb(144,238,144);
+	font-weight: bold;
+}
